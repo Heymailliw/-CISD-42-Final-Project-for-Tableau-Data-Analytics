@@ -12,12 +12,15 @@ You have been asked to asses the business environments for the industry in quest
 Austrial.png is the picture of australia's data
 
 Dataset:
+
 /CISD42_Tableau_Analytics_Project_DataSets/Australian-Demographic-Statistics ver2.xlsx
 /CISD42_Tableau_Analytics_Project_DataSets/Competitor-Research.csv
 /CISD42_Tableau_Analytics_Project_DataSets/Retail-Turnover-State-by-Industry-Subgroup ver2.xlsx
 
 Tableau file:
+
 CISD42_Tableau_Data_Analytics Project William Yeh.twb
 
 Screenshot:
+
 CISD42_Tableau_Data_Analytics Project screenshots.pdf
